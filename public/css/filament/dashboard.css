@@ -1,0 +1,7 @@
+body.filament {
+    background-color: #f3f4f6; 
+    background-image: url('/img/home.png'); /* Background gambar */
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
